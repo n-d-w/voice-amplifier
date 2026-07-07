@@ -19,3 +19,6 @@ title: "Martin Bavolár"
 ## Notes
 
 Mediálny aktér alternatívnej scény pôsobiaci v prostredí šíriacom konšpiračné a prorusky vyznievajúce naratívy, vrátane relácie Konšpiračný byt a politického pôsobenia v proruských kruhoch.
+
+## Link
+https://hlasyagresora.eu/?osoba=78

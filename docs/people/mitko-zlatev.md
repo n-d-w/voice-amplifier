@@ -19,3 +19,6 @@ title: "Mitko Zlatev"
 ## Notes
 
 Pod jeho menom sa publikuje veľké množstvo politického a geopolitického obsahu na TV OTV, pričom médium ako celok dlhodobo šíri prokremeľské, protizápadné a manipulatívne naratívy.
+
+## Link
+https://hlasyagresora.eu/?osoba=174

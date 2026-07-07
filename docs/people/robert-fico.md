@@ -19,3 +19,6 @@ title: "Robert Fico"
 ## Notes
 
 Slovenský premiér presadzujúci politické zbližovanie s Ruskou federáciou napriek ruskej agresii voči Ukrajine, vrátane osobných stretnutí s Vladimirom Putinom a odporu voči vojenskej podpore Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=35

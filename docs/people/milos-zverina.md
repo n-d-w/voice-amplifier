@@ -19,3 +19,6 @@ title: "Miloš Zverina"
 ## Notes
 
 Zakladateľ a predseda slovanského spolku Slavica, verejne pôsobiaci v témach slovanstva, slovanskej vzájomnosti a kultúrnej identity. V kontexte Ruska je relevantný ako panslavistický a rusofilne orientovaný aktér, ktorý sa objavuje v alternatívnom mediálnom prostredí vrátane Hlavných správ a Zem a Vek.
+
+## Link
+https://hlasyagresora.eu/?osoba=129

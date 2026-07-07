@@ -19,3 +19,6 @@ title: "Zoroslav Kollár"
 ## Notes
 
 Podnikateľ, právnik a predseda strany Právo na pravdu. Verejne vystupuje s antisystémovou, protibruselskou a antiukrajinskou rétorikou. Opakovane kritizuje pomoc Ukrajine, sankcie voči Rusku a politiku EÚ/NATO. Jeho komunikácia obsahuje naratívy blízke proruskému informačnému prostrediu, najmä tvrdenia o škodlivosti protiruských sankcií, zodpovednosti Bruselu za pokračovanie vojny a o údajnom vplyve Ukrajiny na slovenskú politiku.
+
+## Link
+https://hlasyagresora.eu/?osoba=112

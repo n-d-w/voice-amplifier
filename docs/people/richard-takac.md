@@ -19,3 +19,6 @@ title: "Richard Takáč"
 ## Notes
 
 Slovenský minister presadzujúci politický rámec odporu voči sankciám na Rusko a verejne šíriaci protiukrajinské naratívy, ktoré nahrávajú záujmom Ruskej federácie.
+
+## Link
+https://hlasyagresora.eu/?osoba=48

@@ -19,3 +19,6 @@ title: "Ľuboš Hrica"
 ## Notes
 
 Dlhodobo šíri anti-EÚ, anti-liberálne, protiukrajinské, anti-NATO a proruské rámce. Vo verejne indexovaných príspevkoch vulgárne útočí na Ukrajinu, spochybňuje jej miesto v EÚ a vyzýva na otvorenie vzťahov s Ruskom. Profil bol zachytený aj v monitoringu dezinformačnej a trollej scény.
+
+## Link
+https://hlasyagresora.eu/?osoba=157

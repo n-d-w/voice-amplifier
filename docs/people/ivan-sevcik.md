@@ -19,3 +19,6 @@ title: "Ivan Ševčík"
 ## Notes
 
 Slovenský politik šíriaci protiukrajinský rámec výkladu vojny, odmietajúci tlak na Rusko a pôsobiaci v politickom prostredí, ktoré presadzuje normalizáciu kontaktov s Ruskou federáciou.
+
+## Link
+https://hlasyagresora.eu/?osoba=68

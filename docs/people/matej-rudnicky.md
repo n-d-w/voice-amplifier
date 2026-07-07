@@ -19,3 +19,6 @@ title: "Matej Rudnický"
 ## Notes
 
 Mladý politický aktivista z Banskej Bystrice verejne spojený s prostredím SMER-SD a Mladých sociálnych demokratov. Jeho verejný profil uvádza „MSD | SMER-SD“ a „asistent poslanca NR SR“. Obsahovo komunikuje výrazne pro-SMER a antiopozične. Médiá ho spomínali aj v kontexte diskusie Roberta Fica so študentmi v Poprade a následnej debaty o účasti mladých členov alebo sympatizantov SMER-SD.
+
+## Link
+https://hlasyagresora.eu/?osoba=167

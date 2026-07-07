@@ -19,3 +19,6 @@ title: "Jozef Hrdlička"
 ## Notes
 
 Ako predseda KSS sa pravidelne zúčastňuje na oficiálnych recepciách, spomienkových podujatiach a stretnutiach organizovaných Veľvyslanectvom Ruskej federácie v Slovenskej republike. Udržiava priame vzťahy s ruskými diplomatmi, s ktorými zdieľa pohľady na historické udalosti a geopolitický vývoj.
+
+## Link
+https://hlasyagresora.eu/?osoba=102

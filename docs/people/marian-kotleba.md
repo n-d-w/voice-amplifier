@@ -19,3 +19,6 @@ title: "Marián Kotleba"
 ## Notes
 
 Slovenský krajne pravicový politik šíriaci proruský výklad vojny proti Ukrajine, útočiaci na NATO a EÚ a dlhodobo oslovujúci voličov náchylných na prokremeľské naratívy.
+
+## Link
+https://hlasyagresora.eu/?osoba=56

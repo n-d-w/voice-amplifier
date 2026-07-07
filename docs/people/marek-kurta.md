@@ -19,3 +19,6 @@ title: "Marek Kurta"
 ## Notes
 
 Na svojich komunikačných kanáloch a sociálnych sieťach pravidelne preberá, prekladá a nekriticky zdieľa informácie z ruských vojenských blogov (tzv. &quot;Z-kanálov&quot;). Obhajuje legitimitu ruskej vojenskej prítomnosti na Ukrajine a vo svojich statusoch často oslavuje historickú i súčasnú silu ruskej armády.
+
+## Link
+https://hlasyagresora.eu/?osoba=96

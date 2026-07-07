@@ -19,3 +19,6 @@ title: "Alexander Riabov"
 ## Notes
 
 Občiansky a politický aktivista z Topoľčian, právnik a ekonóm, člen Správnej rady TASR. Verejne vystupuje v národoveckom a SNS-blízkom prostredí, tvorí politický obsah na sociálnych sieťach a v médiách bol opakovane označený za proruského aktivistu.
+
+## Link
+https://hlasyagresora.eu/?osoba=90

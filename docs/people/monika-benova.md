@@ -19,3 +19,6 @@ title: "Monika Beňová"
 ## Notes
 
 Slovenská europoslankyňa pôsobiaca v rámci Smeru-SD, ktorého zahraničnopolitická línia smeruje k normalizácii vzťahov s Moskvou, pričom jej postoje a hlasovania boli spájané s odmietaním tvrdšieho postupu voči Ruskej federácii.
+
+## Link
+https://hlasyagresora.eu/?osoba=51

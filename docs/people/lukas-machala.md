@@ -19,3 +19,6 @@ title: "Lukáš Machala"
 ## Notes
 
 Vysoký štátny úradník šíriaci konšpiračné a prorusky vyznievajúce interpretácie vojny proti Ukrajine, pôsobiaci v prostredí súčasnej vládnej kultúrnej politiky a alternatívnej mediálnej scény.
+
+## Link
+https://hlasyagresora.eu/?osoba=86

@@ -19,3 +19,6 @@ title: "Judita Laššáková"
 ## Notes
 
 Slovenská europoslankyňa prezentujúca postoje blízke proruskému politickému rámcu Smeru-SD, vrátane kritiky sankcií, podpory Ukrajiny a európskej politiky voči Ruskej federácii.
+
+## Link
+https://hlasyagresora.eu/?osoba=38

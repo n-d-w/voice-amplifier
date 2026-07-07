@@ -19,3 +19,6 @@ title: "Adrián Repčok"
 ## Notes
 
 Moderátor Infovojny a verejná tvár proruského dezinformačného mediálneho prostredia. Pôsobí v priestore, ktorý dlhodobo šíri antisystémové, anti-EÚ, anti-NATO a protiukrajinské naratívy. Svojím vystupovaním pomáha legitimizovať obsah výhodný pre Ruskú federáciu, spochybňovať podporu Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=142

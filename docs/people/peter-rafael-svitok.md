@@ -19,3 +19,6 @@ title: "Peter Rafael Svitok"
 ## Notes
 
 Vystupuje ako politicky aktívny influencer, člen strany SMER-SSD a prominentný kritik vojenskej pomoci Ukrajine. Vo svojich príspevkoch na sociálnych sieťach sa ostro vyjadruje proti predošlým slovenským vládam za to, že darovali Ukrajine vojenský majetok v stovkách miliónov eur. Jeho rétorika kopíruje oficiálnu líniu vládnej koalície, hlási sa k proruským naratívom o „mieri“ bez posielania zbraní na Ukrajinu a zapája sa do aktivít a protestov proti progresivizmu.
+
+## Link
+https://hlasyagresora.eu/?osoba=121

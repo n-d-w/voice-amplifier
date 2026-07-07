@@ -19,3 +19,6 @@ title: "Jozef Mikloško"
 ## Notes
 
 Bývalý politik a diplomat s verejne prezentovaným ústupkovým rámcom voči Ruskej federácii, založeným najmä na kritike Západu, Ukrajiny a podpory Kyjeva.
+
+## Link
+https://hlasyagresora.eu/?osoba=70

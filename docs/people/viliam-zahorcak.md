@@ -19,3 +19,6 @@ title: "Viliam Zahorčák"
 ## Notes
 
 Stabilná postava smeráckeho politického prostredia na Zemplíne. Vystupoval pri straníckej výzve za účasť športovcov z Ruska a Bieloruska na olympiáde, čo zapadá do širšieho smeráckeho rámca relativizovania izolácie Ruska po agresii voči Ukrajine. Jeho pôsobenie v Michalovciach je spájané aj s kauzou MediPark/Bžán, v ktorej sa riešili právne služby za 480 000 eur a ÚVO konštatoval porušenie zákona pri obstarávaní.
+
+## Link
+https://hlasyagresora.eu/?osoba=155

@@ -19,3 +19,6 @@ title: "František Škvrnda"
 ## Notes
 
 Sociológ, bezpečnostný analytik, bývalý vojak z povolania a vysokoškolský pedagóg. Dlhodobo publikuje geopolitické komentáre v ľavicovom a alternatívnom prostredí. V kontexte Ruska a vojny na Ukrajine používa naratívy blízke proruskému informačnému prostrediu, najmä silnú kritiku NATO/USA/Západu a interpretácie konfliktu priaznivé pre ruský pohľad.
+
+## Link
+https://hlasyagresora.eu/?osoba=116

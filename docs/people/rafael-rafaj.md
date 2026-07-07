@@ -19,3 +19,6 @@ title: "Rafael Rafaj"
 ## Notes
 
 Bývalý poslanec NR SR za SNS, neskôr spájaný s hnutím Republika. Publicista a mediálny aktér spájaný s ExtraPlus, médiom evidovaným medzi stránkami so sporným obsahom. V indexe ho možno zaradiť medzi osoby pôsobiace v nacionalistickom a alternatívnom mediálnom prostredí s potenciálne problematickým rámcovaním tém NATO, Západu, Ruska a Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=139

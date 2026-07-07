@@ -19,3 +19,6 @@ title: "Peter Lipták"
 ## Notes
 
 Počas pandémie COVID-19 sa stal kontroverznou postavou pre spochybňovanie opatrení, očkovania a verejných zdravotníckych autorít. Ministerstvo zdravotníctva ho obviňovalo zo šírenia nepravdivých a zavádzajúcich informácií o COVID-19 a z odrádzania seniorov od očkovania. Rizikový je najmä ako zdravotnícky influencer antiinštitucionálneho a alternatívneho informačného prostredia.
+
+## Link
+https://hlasyagresora.eu/?osoba=159

@@ -19,3 +19,6 @@ title: "Róbert Sopko"
 ## Notes
 
 Zakladateľ a šéfredaktor webu Hlavné správy. Dlhodobo spájaný s dezinformačným a proruským mediálnym prostredím na Slovensku. Hlavné správy boli opakovane označované za konšpiračný/dezinformačný web a spájané so šírením proruských naratívov o Ukrajine, NATO a Západe.
+
+## Link
+https://hlasyagresora.eu/?osoba=138

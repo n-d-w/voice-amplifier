@@ -19,3 +19,6 @@ title: "Michaela Gánovská"
 ## Notes
 
 Je hlavnou tvárou a prevádzkovateľkou projektu nezávislého spravodajstva a internetovej platformy Televízia Veci verejné. Obsah, ktorý produkuje, dlhodobo preberá, prekladá a nekriticky šíri oficiálne geopolitické naratívy Kremľa, relativizuje vojenský konflikt na Ukrajine a odsudzuje západnú obrannú politiku
+
+## Link
+https://hlasyagresora.eu/?osoba=106

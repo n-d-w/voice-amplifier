@@ -19,3 +19,6 @@ title: "Juraj Gedra"
 ## Notes
 
 Patrí medzi mladšie a mediálne výrazné tváre Smeru. Rizikový je najmä pre svoje mocenské postavenie a verejné rámcovanie Ukrajiny, Ruska a bezpečnosti: ospravedlnil sa za hlasovanie Slovenska v OSN podporujúce územnú celistvosť Ukrajiny a odchod ruských vojsk, Ukrajinu obviňoval pri téme tranzitu plynu a projekt o možnej ruskej hrozbe označil za „psychologickú operáciu“.
+
+## Link
+https://hlasyagresora.eu/?osoba=88

@@ -19,3 +19,6 @@ title: "Juraj Draxler"
 ## Notes
 
 Verejný komentátor šíriaci interpretácie vojny na Ukrajine zhodné s kremeľským naratívom, najmä tézu, že konflikt nevznikol pre ruskú rozpínavosť, ale pre geopolitické kroky Západu a NATO.
+
+## Link
+https://hlasyagresora.eu/?osoba=60

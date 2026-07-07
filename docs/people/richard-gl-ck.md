@@ -19,3 +19,6 @@ title: "Richard Glück"
 ## Notes
 
 Patrí medzi mediálne výrazné mladé tváre Smeru a vystupuje agresívnym anti-liberálnym a polarizačným štýlom. K Ukrajine používa tvrdý smerácky rámec; verejne uviedol, že Ukrajina nie je pre Slovensko spoľahlivým susedom ani partnerom. Priame väzby na Rusko nie sú doložené, no jeho pôsobenie vykazuje antiukrajinskú a proruskú naratívovú blízkosť.
+
+## Link
+https://hlasyagresora.eu/?osoba=45

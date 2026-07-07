@@ -19,3 +19,6 @@ title: "Peter Nišponský"
 ## Notes
 
 Bývalý príslušník ŠtB evidovaný Ústavom pamäti národa, dlhoročný aktér komunistického prostredia v Košiciach a kandidát KSS. Spájaný so stránkou Komunisti Košice / InternkomKE, ktorá šíri anti-NATO, protiukrajinské a proruské naratívy. V roku 2015 bol podľa médií sekretárom Charty 2015, ktorá spoluorganizovala podporu ruského ministra Sergeja Lavrova na Slavíne.
+
+## Link
+https://hlasyagresora.eu/?osoba=143

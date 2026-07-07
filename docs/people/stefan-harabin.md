@@ -19,3 +19,6 @@ title: "Štefan Harabin"
 ## Notes
 
 Verejný aktér otvorene vystupujúci v prospech Ruskej federácie, relativizujúci ruskú agresiu voči Ukrajine a šíriaci naratívy zhodné s kremeľskou propagandou.
+
+## Link
+https://hlasyagresora.eu/?osoba=42

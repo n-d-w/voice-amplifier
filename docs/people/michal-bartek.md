@@ -19,3 +19,6 @@ title: "Michal Bartek"
 ## Notes
 
 Slovenský politik presadzujúci pragmatické obnovovanie kontaktov s Ruskou federáciou, odmietajúci úplnú izoláciu Moskvy a opakovane vystupujúci kriticky voči ukrajinským požiadavkám a protiruským sankciám.
+
+## Link
+https://hlasyagresora.eu/?osoba=29

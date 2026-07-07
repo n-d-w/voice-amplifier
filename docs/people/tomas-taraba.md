@@ -19,3 +19,6 @@ title: "Tomáš Taraba"
 ## Notes
 
 Slovenský vládny politik presadzujúci líniu, ktorá zľahčuje politickú zodpovednosť Ruskej federácie, útočí na Ukrajinu a obhajuje zachovanie energetických väzieb na ruské zdroje počas prebiehajúcej ruskej vojny proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=55

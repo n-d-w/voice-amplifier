@@ -19,3 +19,6 @@ title: "Ján Stanko"
 ## Notes
 
 Politicky aktívny mediálny komunikátor zo sociálnych sietí. Je spájaný s prokremeľskými a manipulatívnymi naratívmi a objavil sa aj v kontexte upozornení „Hoaxy a podvody – Polícia SR“. Dlhodobo pracuje s rámcami výhodnými pre Rusko, útočí na podporu Ukrajiny a šíri obraz slabého Západu a porazenej Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=140

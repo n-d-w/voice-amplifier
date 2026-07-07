@@ -19,3 +19,6 @@ title: "Ľuboš Blaha"
 ## Notes
 
 Slovenský europoslanec verejne vystupujúci ako politický obhajca Ruskej federácie, opakovane navštevujúci Moskvu a prezentujúci naratívy zhodné s ruskou propagandou voči Ukrajine a Západu.
+
+## Link
+https://hlasyagresora.eu/?osoba=40

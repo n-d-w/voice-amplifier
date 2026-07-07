@@ -19,3 +19,6 @@ title: "Juraj Štubniak"
 ## Notes
 
 Mediálny aktér alternatívnej scény, ktorého verejná komunikácia zapadá do protizápadného a prorusky vyznievajúceho rámca, najmä cez kritiku EÚ, Ukrajiny a západnej podpory Kyjeva.
+
+## Link
+https://hlasyagresora.eu/?osoba=81

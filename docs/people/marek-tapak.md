@@ -19,3 +19,6 @@ title: "Marek Ťapák"
 ## Notes
 
 Aktívny v alternatívnom/provládnom mediálnom prostredí, v ktorých používa rámce blízke proruskému informačnému priestoru — najmä relativizovanie ruskej agresie, spochybňovanie Ukrajiny ako obete a presúvanie pozornosti na ukrajinský nacionalizmus, Banderu, Šuchevyča či Odesu.
+
+## Link
+https://hlasyagresora.eu/?osoba=125

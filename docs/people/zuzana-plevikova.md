@@ -19,3 +19,6 @@ title: "Zuzana Plevíková"
 ## Notes
 
 V kontexte Ruska je relevantná najmä jej účasť na recepcii Veľvyslanectva Ruskej federácie na Bôriku pri príležitosti 80. výročia víťazstva nad fašizmom.
+
+## Link
+https://hlasyagresora.eu/?osoba=117

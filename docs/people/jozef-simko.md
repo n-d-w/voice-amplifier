@@ -19,3 +19,6 @@ title: "Jozef Šimko"
 ## Notes
 
 Primátor Rimavskej Soboty a bývalý poslanec NR SR. Verejne obhajoval anexiu Krymu, NATO označil za „zločineckú organizáciu“ a opakovane šíril naratívy zhodné s ruskou propagandou. V decembri 2024 prijal na oslavách oslobodenia mesta ruského veľvyslanca Igora Bratčikova.
+
+## Link
+https://hlasyagresora.eu/?osoba=169

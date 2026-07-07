@@ -19,3 +19,6 @@ title: "Daniel Slobodan Máčovský"
 ## Notes
 
 Antisystémový aktivista a mediálny mobilizátor zo sociálnych sietí, vystupujúci ako Swami Dayananda. Cez Zapravdu.sk a facebookové skupiny sa stal jedným z viditeľných organizátorov kampaní proti veterným elektrárňam, pričom jeho komunikácia pracuje so strachom, anti-Green Deal rámcami a obsahom označovaným za problematický či dezinformačný.
+
+## Link
+https://hlasyagresora.eu/?osoba=141

@@ -19,3 +19,6 @@ title: "Pavol Ľupták"
 ## Notes
 
 Slovenský poslanec šíriaci prorusky vyznievajúci rámec vojny proti Ukrajine, najmä spochybňovaním ruskej zodpovednosti za útoky na civilné ciele a odmietaním jednoznačného odsúdenia Ruskej federácie.
+
+## Link
+https://hlasyagresora.eu/?osoba=84

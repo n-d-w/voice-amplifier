@@ -19,3 +19,6 @@ title: "Erik Kaliňák"
 ## Notes
 
 Slovenský politik a europoslanec verejne presadzujúci ústupkový prístup voči Ruskej federácii, spochybňujúci západnú podporu Ukrajiny a prezentujúci výroky, ktoré môžu legitimizovať ruskú expanziu na úkor Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=39

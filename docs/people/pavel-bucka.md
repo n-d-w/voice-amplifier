@@ -19,3 +19,6 @@ title: "Pavel Bučka"
 ## Notes
 
 Ruským spravodajským službám poskytoval citlivé informácie už od roku 2013. Ako vysokopostavený dôstojník mal bezpečnostnú previerku na druhý najvyšší stupeň („Tajné“). Informácie sa týkali záujmov NATO, Ozbrojených síl SR, obrannej infraštruktúry a hodnotenia bezpečnosti.
+
+## Link
+https://hlasyagresora.eu/?osoba=93

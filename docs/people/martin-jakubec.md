@@ -19,3 +19,6 @@ title: "Martin Jakubec"
 ## Notes
 
 Mediálne známa, kontroverzná a politicky oportunistická osoba s vysokým reputačným a dezinformačným rizikom. V témach Ukrajiny a Ruska má viacero výstupov, ktoré pôsobia protiukrajinsky alebo rusko-ústretovo, no jeho profil je širší: šoubiznis, sebapropagácia, komunálna politika, krajne pravicové kandidovanie a konfliktná komunikácia.
+
+## Link
+https://hlasyagresora.eu/?osoba=168

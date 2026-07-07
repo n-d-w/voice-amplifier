@@ -19,3 +19,6 @@ title: "Artur Bekmatov"
 ## Notes
 
 Bývalý predseda hnutia Socialisti.sk, bývalý kandidát Smeru-SD a ľavicový anti-NATO politik. V minulosti pôsobil v komunistickom a alternatívnom mediálnom prostredí vrátane Zem a Vek a podľa akademického zdroja aj Sputniku. Verejne vystupuje s výrazne antiamerickými, protizápadnými a proruským naratívom blízkymi postojmi.
+
+## Link
+https://hlasyagresora.eu/?osoba=89

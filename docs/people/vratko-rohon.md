@@ -19,3 +19,6 @@ title: "Vratko Rohoň"
 ## Notes
 
 V kontexte Ruska a vojny na Ukrajine je relevantný najmä pre vystúpenie v alternatívnom/provládnom mediálnom priestore u Pavla Kapustu, kde bol jeho rozhovor rámcovaný tvrdeniami o tom, že Rusko nechce mať NATO na svojich hraniciach a že ruský vojenský zásah bol „vyprovokovaný“.
+
+## Link
+https://hlasyagresora.eu/?osoba=127

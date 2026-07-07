@@ -19,3 +19,6 @@ title: "Igor Melicher"
 ## Notes
 
 V novembri 2025 v televíznej diskusii Na telo plus vyhlásil, že pre Slovensko by bolo najlepšie, ak by bola Ukrajina kompletne pod ruským vplyvom. Ako hlavný dôvod tohto scenára uviedol ekonomické benefity pre SR.
+
+## Link
+https://hlasyagresora.eu/?osoba=103

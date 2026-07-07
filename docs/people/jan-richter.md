@@ -19,3 +19,6 @@ title: "Ján Richter"
 ## Notes
 
 Poslanec NR SR za Smer-SD s verejne prezentovanou obhajobou vládnych kontaktov s Ruskou federáciou a ekonomickej spolupráce s Moskvou počas vojny proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=53

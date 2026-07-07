@@ -19,3 +19,6 @@ title: "Branislav Rusiňák"
 ## Notes
 
 V médiách boli doložené jeho vyjadrenia na sociálnych sieťach, v ktorých sa stotožnil s ruskou vojenskou propagandou a obyvateľov Ukrajiny verejne označil za „banderovcov“.
+
+## Link
+https://hlasyagresora.eu/?osoba=109

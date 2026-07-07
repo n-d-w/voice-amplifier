@@ -19,3 +19,6 @@ title: "Anton Hrnko"
 ## Notes
 
 Dlhodobo zastáva názor, že Európa nesmie z Ruskej federácie budovať definitívneho nepriateľa. Verejne vyhlasuje, že protiruské nálady a dezinformácie podľa neho „prišli z Ukrajiny“, čím sa stotožňuje s naratívom relativizujúcim geopolitickú vinu Moskvy.
+
+## Link
+https://hlasyagresora.eu/?osoba=104

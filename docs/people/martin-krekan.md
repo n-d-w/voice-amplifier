@@ -19,3 +19,6 @@ title: "Martin Krekáň"
 ## Notes
 
 Prevádzkovateľ dezinformačného projektu Mr. Slovak. Podľa zistení tímu Hoaxy a podvody a projektu Légia Štefánik ide o osobu stojacu za jednou z najznámejších dezinformačných stránok na Slovensku. Projekt Mr. Slovak šíri politickú propagandu, pandemické hoaxy, falošné vlastenectvo, útoky na odborníkov a obsah podporujúci ruské naratívy.
+
+## Link
+https://hlasyagresora.eu/?osoba=132

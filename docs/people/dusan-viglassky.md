@@ -19,3 +19,6 @@ title: "Dušan Vígľašský"
 ## Notes
 
 Firemný e-shop používa na šírenie politických a konšpiračných textov k pandémii, vojne na Ukrajine, LGBTI+ témam a Západu. V komunikácii sa objavujú anti-liberálne, anti-Západné a protiukrajinské rámce; stránka Dráčika bola zaradená medzi weby so sporným obsahom.
+
+## Link
+https://hlasyagresora.eu/?osoba=153

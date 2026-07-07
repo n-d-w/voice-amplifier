@@ -19,3 +19,6 @@ title: "Bohuš Garbár"
 ## Notes
 
 Právoplatne odsúdený za vyzvedačstvo pre Ruskú federáciu a prijímanie úplatku v kauze spolupráce s dôstojníkom ruskej vojenskej rozviedky.
+
+## Link
+https://hlasyagresora.eu/?osoba=41

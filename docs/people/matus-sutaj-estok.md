@@ -19,3 +19,6 @@ title: "Matúš Šutaj Eštok"
 ## Notes
 
 Slovenský minister vnútra a predseda Hlas-SD pôsobiaci v politickej línii, ktorá zľahčuje bezpečnostné riziká spojené s Ruskou federáciou, kritizuje Ukrajinu a legitimizuje normalizáciu vzťahov s Moskvou.
+
+## Link
+https://hlasyagresora.eu/?osoba=54

@@ -19,3 +19,6 @@ title: "Dušan Jariabek"
 ## Notes
 
 Slovenský politik pôsobiaci v straníckom prostredí Smeru-SD, ktoré presadzuje obnovovanie kontaktov s Moskvou, pričom sám bol súčasťou parlamentných kontaktov s Ruskou federáciou a relativizoval prirovnania ruskej agresie voči Ukrajine k historickým aktom agresie.
+
+## Link
+https://hlasyagresora.eu/?osoba=49

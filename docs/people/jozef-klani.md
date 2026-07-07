@@ -19,3 +19,6 @@ title: "Jozef Klani"
 ## Notes
 
 Opakovane šíri proruské, protiukrajinské, anti-EÚ, anti-Západné a konšpiračné naratívy. V príspevkoch používa rámce ako „kyjevský režim“, banderovské označovanie Ukrajiny, diskreditáciu EÚ a Ukrajiny, hrozby ruskými cieľmi voči európskym mestám či technologické konšpirácie.
+
+## Link
+https://hlasyagresora.eu/?osoba=152

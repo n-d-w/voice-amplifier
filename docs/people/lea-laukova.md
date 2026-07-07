@@ -19,3 +19,6 @@ title: "Lea Lauková"
 ## Notes
 
 Politická komunikátorka hnutia Republika šíriaca prorusky vyznievajúci obraz Ruskej federácie a pôsobiaca v politickom prostredí, ktoré dlhodobo kritizuje západnú podporu Ukrajiny a sankcie voči Moskve.
+
+## Link
+https://hlasyagresora.eu/?osoba=72

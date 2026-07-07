@@ -19,3 +19,6 @@ title: "Milan Žitný"
 ## Notes
 
 Známy bezpečnostný analytik a bývalý novinár, ktorý sa v posledných rokoch výrazne posunul smerom k proruskej rétorike. Opakovane argumentuje, že Rusko bolo k vojenským krokom vyprovokované rozširovaním NATO, čím sa priamo stotožňuje s oficiálnou doktrínou Kremľa.
+
+## Link
+https://hlasyagresora.eu/?osoba=99

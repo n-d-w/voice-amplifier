@@ -19,3 +19,6 @@ title: "Jana Dědičová"
 ## Notes
 
 Anonymná dezinfluencerka verejne spájaná s účtami Jajka Veselá, Jajka Správy a Jajka Frasierová. Podľa zistení Légie Štefánik a článku Martina Hodása zo SME mala byť hlavnou autorkou statusov týchto kanálov. Účty sú opisované ako dezinformačné kanály šíriace hoaxy, manipulatívny obsah a proruskú propagandu.
+
+## Link
+https://hlasyagresora.eu/?osoba=131

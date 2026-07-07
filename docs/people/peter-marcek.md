@@ -19,3 +19,6 @@ title: "Peter Marček"
 ## Notes
 
 Priamo na Kryme rokoval s okupačnými predstaviteľmi a podpísal dohodu o vytvorení Európsko-Krymskej obchodnej komory, čím otvorene porušil sankčnú politiku a diplomatickú líniu SR. Položil základy pre legitimizáciu ruských územných ziskov slovenskými politikmi.
+
+## Link
+https://hlasyagresora.eu/?osoba=95

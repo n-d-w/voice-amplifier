@@ -19,3 +19,6 @@ title: "Lívia Pavlíková"
 ## Notes
 
 Influencerka a kandidátka hnutia Republika spájaná s krajne pravicovým mediálnym prostredím, ktoré dlhodobo šíri protieurópske, protiukrajinské a prorusky vyznievajúce naratívy.
+
+## Link
+https://hlasyagresora.eu/?osoba=64

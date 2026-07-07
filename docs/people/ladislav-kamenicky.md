@@ -19,3 +19,6 @@ title: "Ladislav Kamenický"
 ## Notes
 
 Slovenský politik presadzujúci líniu odporu voči sankčnému tlaku na Ruskú federáciu a proti vojenskej podpore Ukrajiny, pričom verejne rámcuje protiruské sankcie ako škodlivé najmä pre Slovensko a EÚ.
+
+## Link
+https://hlasyagresora.eu/?osoba=47

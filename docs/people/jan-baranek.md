@@ -19,3 +19,6 @@ title: "Ján Baránek"
 ## Notes
 
 Vo svojich komentároch a videách pravidelne spochybňuje zmysel západnej pomoci Kyjevu a presadzuje tézu, že „Ukrajina vojnu proti Rusku vyhrať nemôže“. Zodpovednosť za eskaláciu vzťahov a konflikt často pripisuje politike Západu, ktorá podľa neho dotlačila Rusko a Čínu k užšiemu spojenectvu. Ostrú kritiku adresoval bývalým slovenským vládam za ich solidárnu politiku voči Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=122

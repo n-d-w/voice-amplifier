@@ -19,3 +19,6 @@ title: "Daniel Bombic"
 ## Notes
 
 Proruský aktér slovenskej dezinformačnej scény. Vo svojich príspevkoch na sociálnych sieťach (najmä na Telegrame) pravidelne preberá, šíri a legitimizuje naratívy ruskej štátnej propagandy, pričom spochybňuje pomoc Ukrajine a obhajuje politiku Kremľa.
+
+## Link
+https://hlasyagresora.eu/?osoba=119

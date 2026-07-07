@@ -19,3 +19,6 @@ title: "Štefan Patrik Kováč"
 ## Notes
 
 Šíri anti-liberálne, proti-EÚ a protidemokratické rámce s výraznou proruskou naratívovou blízkosťou. V textoch o Ukrajine spochybňuje vojenskú pomoc, relativizuje zodpovednosť Ruska, útočí na „liberálov a progresívcov“ a presúva pozornosť na údajné zločiny ukrajinského štátu voči vlastným občanom. Ukrajinu vykresľuje ako „koncentračný tábor“ a odpor voči Rusku ako produkt politikov, médií a zbrojárskeho biznisu.
+
+## Link
+https://hlasyagresora.eu/?osoba=144

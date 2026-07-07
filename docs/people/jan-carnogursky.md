@@ -19,3 +19,6 @@ title: "Ján Čarnogurský"
 ## Notes
 
 Bývalý minister spravodlivosti s dlhodobo verejne deklarovanými proruskými postojmi a väzbami na prostredie Ruskej federácie.
+
+## Link
+https://hlasyagresora.eu/?osoba=12

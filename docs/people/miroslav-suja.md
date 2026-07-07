@@ -19,3 +19,6 @@ title: "Miroslav Suja"
 ## Notes
 
 Bývalý poslanec NR SR za ĽSNS, neskôr predstaviteľ Republiky. Patrí medzi aktérov prechodu kotlebovského prostredia do širšej krajne pravicovej a antisystémovej scény. Rizikový pre väzby na ĽSNS, Republiku a normalizáciu anti-EÚ, anti-NATO a protiukrajinských rámcov.
+
+## Link
+https://hlasyagresora.eu/?osoba=148

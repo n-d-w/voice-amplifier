@@ -19,3 +19,6 @@ title: "Radoslav Vazan"
 ## Notes
 
 Radoslav Vazan opakovane pozýva zástupcov ruského veľvyslanectva na spomienkové akcie pri príležitosti oslobodenia mesta. V tejto tradícii pokračoval aj po vypuknutí konfliktu na Ukrajine, kedy väčšina slovenských miest účasť ruských diplomatov pre agresiu Moskvy zrušila.
+
+## Link
+https://hlasyagresora.eu/?osoba=108

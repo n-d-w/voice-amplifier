@@ -19,3 +19,6 @@ title: "Miroslav Radačovský"
 ## Notes
 
 Slovenský politik šíriaci proruský a protizápadný rámec vojny proti Ukrajine, odmietajúci zbrojnú pomoc Kyjevu a vystupujúci v Európskom parlamente proti politike zodpovednosti voči Ruskej federácii. Systematicky hlasoval proti všetkým európskym rezolúciám, ktoré odsudzovali ruskú agresiu alebo zavádzali ekonomické sankcie.
+
+## Link
+https://hlasyagresora.eu/?osoba=59

@@ -19,3 +19,6 @@ title: "Gustáv Murín"
 ## Notes
 
 Dlhodobo publikuje svoje eseje a politické komentáre v alternatívnych periodikách a portáloch (ako sú Hlavné správy či Extraplus). Vydáva knihy vo vydavateľstve Torden, ktoré sa špecializuje na proruskú literatúru a preklady diel kremeľských ideológov.
+
+## Link
+https://hlasyagresora.eu/?osoba=111

@@ -19,3 +19,6 @@ title: "Katarína Boková"
 ## Notes
 
 Aktivistka a politická kandidátka spojená s ĽSNS a SHO. Jedna z viditeľných tvárí slovenských „mierových“ pochodov a antisystémovej scény. Jej verejné pôsobenie sa prekrýva s anti-NATO, anti-EÚ, protiukrajinskými a proruskými naratívmi. Riziková najmä ako mobilizačná aktérka nacionalistického a antisystémového prostredia.
+
+## Link
+https://hlasyagresora.eu/?osoba=146

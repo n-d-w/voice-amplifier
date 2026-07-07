@@ -19,3 +19,6 @@ title: "Vladimír Baran"
 ## Notes
 
 Na jeseň 2024 vyhlásil oficiálnu finančnú zbierku určenú pre civilných obyvateľov ruskej Kurskej oblasti, ktorí boli zasiahnutí ukrajinskou protiofenzívou. Zbierku sprevádzala rétorika prevzatá priamo z ruskej propagandy, pričom na webe obce hovoril o „terorizovaní ruských obyvateľov banderovskými potomkami“. V rámci tejto iniciatívy sa vyzbieralo vyše 50-tisíc eur.
+
+## Link
+https://hlasyagresora.eu/?osoba=105

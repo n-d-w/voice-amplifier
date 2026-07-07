@@ -19,3 +19,6 @@ title: "Marek Kotleba"
 ## Notes
 
 Politik ĽSNS, brat Mariana Kotlebu a líder kandidátky Kotlebovcov v parlamentných voľbách 2023. Verejne pôsobí ako jedna z hlavných tvárí pokračovania kotlebovského politického projektu po tom, čo Marian Kotleba nemohol kandidovať. Rizikový je najmä pre dlhodobú väzbu na krajne pravicové, nacionalistické, anti-EÚ a antisystémové prostredie ĽSNS.
+
+## Link
+https://hlasyagresora.eu/?osoba=147

@@ -19,3 +19,6 @@ title: "Štefan Polačik"
 ## Notes
 
 Politický aktivista Slovenského Hnutia Obrody šíriaci protizápadný a prorusky vyznievajúci politický rámec, vrátane kritiky podpory Ukrajiny a západnej orientácie Slovenska.
+
+## Link
+https://hlasyagresora.eu/?osoba=74

@@ -19,3 +19,6 @@ title: "Peter Kotlár"
 ## Notes
 
 Slovenský politik a vládny splnomocnenec šíriaci naratívy zhodné s ruskou propagandou, vrátane tvrdení o údajných ukrajinských biolaboratóriách, ktorými Kremeľ ospravedlňoval inváziu proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=37

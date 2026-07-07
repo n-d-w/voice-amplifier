@@ -19,3 +19,6 @@ title: "Milan Mazurek"
 ## Notes
 
 Slovenský europoslanec s výrazne proruským hlasovacím vzorcom v Európskom parlamente, opakovane vystupujúci proti sankciám a politickej podpore Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=44

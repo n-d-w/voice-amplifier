@@ -19,3 +19,6 @@ title: "Boris Koróni"
 ## Notes
 
 Mediálny aktér alternatívnej scény, šéf a spoluzakladateľ Slobodného vysielača. Pôsobí v prostredí InfoVojny/Slobodného vysielača, ktoré je dlhodobo spájané s konšpiračnými, dezinformačnými a proruským informačným prostredím blízkymi naratívmi.
+
+## Link
+https://hlasyagresora.eu/?osoba=113

@@ -19,3 +19,6 @@ title: "Ján Simonics"
 ## Notes
 
 Účet predstavuje politicky a ideologicky vyhranený verejný profil s väzbou na Komunistickú stranu Slovenska. Obsah účtu je orientovaný na antikapitalistickú, prokomunistickú a spoločensky polarizačnú komunikáciu. Vzhľadom na verejnú politickú aktivitu a dohľadateľnú kandidatúru osoby menom Ján Simonics za KSS vo voľbách do NR SR 2023 ide o reputačne citlivý kontakt.
+
+## Link
+https://hlasyagresora.eu/?osoba=163

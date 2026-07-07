@@ -19,3 +19,6 @@ title: "Alex Szitás"
 ## Notes
 
 Szitás nie je nezávislý analytik konfliktu. Je to influencer dezinfoscény, ktorý publikuje obsah zapadajúci do prokremeľskej propagandy: Ukrajina ako provokatér, Západ ako vojnový štváč, Rusko ako obeť alebo aspoň nie hlavný vinník. To je presne informačný rámec, ktorý Moskva potrebuje šíriť medzi slovenským publikom.
+
+## Link
+https://hlasyagresora.eu/?osoba=133

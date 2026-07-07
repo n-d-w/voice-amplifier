@@ -19,3 +19,6 @@ title: "Ján Rohár"
 ## Notes
 
 Opakovane cestuje do Ruska na pozvanie tamojších úradov. V marci 2024 bol súčasťou slovenskej delegácie na Svetovom festivale mládeže v ruskom Soči, kde vystupovali poprední predstavitelia kremeľského režimu. Vo svojich verejných vyjadreniach sa dlhodobo stotožňuje s naratívmi Moskvy, relativizuje konflikt na Ukrajine a odmieta euroatlantickú orientáciu Slovenska.
+
+## Link
+https://hlasyagresora.eu/?osoba=110

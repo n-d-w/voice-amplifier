@@ -19,3 +19,6 @@ title: "Rebeka Riabová"
 ## Notes
 
 Bývalá kandidátka SNS do NR SR, youtuberka a členka Rady pre mediálne služby. Verejne vystupuje v národno-konzervatívnom a SNS-blízkom prostredí, venuje sa kultúrno-politickým témam a kritike progresívneho/liberálneho prostredia.
+
+## Link
+https://hlasyagresora.eu/?osoba=91

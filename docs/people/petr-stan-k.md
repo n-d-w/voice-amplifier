@@ -19,3 +19,6 @@ title: "Petr Staněk"
 ## Notes
 
 Verejný komentátor šíriaci geopolitické interpretácie zhodné s proruským rámcom, najmä cez kritiku Západu, NATO, podpory Ukrajiny a predstavu civilizačného úpadku Západu oproti Rusku a multipolárnemu svetu.
+
+## Link
+https://hlasyagresora.eu/?osoba=66

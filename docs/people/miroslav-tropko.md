@@ -19,3 +19,6 @@ title: "Miroslav Tropko"
 ## Notes
 
 Telegramový a sociálno-mediálny profil MIRO DEL telegram, zameraný na vojnu na Ukrajine, Rusko, NATO a Západ. Autor sa prezentuje ako neprofesionálny komentátor pripravujúci „svodky“ o fronte, svoj obsah rámcuje ako „pravdu“ proti údajnej americkej propagande a používa útočné označenia voči médiám a sociálnym sieťam. Profil vykazuje výraznú proruskú, anti-západnú a protiukrajinskú naratívovú blízkosť.
+
+## Link
+https://hlasyagresora.eu/?osoba=151

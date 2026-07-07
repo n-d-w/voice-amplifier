@@ -19,3 +19,6 @@ title: "Peter Marman"
 ## Notes
 
 Vysokoškolský pedagóg a aktivista, ktorý je mediálne známy svojím angažovaním v organizáciách, ako je Slovensko-ruská spoločnosť pod vedením Jána Čarnogurského. Aktívne sa podieľa na organizovaní prednášok, diskusií a kultúrnych podujatí s jasným politickým podtextom, ktorých cieľom je očisťovať obraz súčasného ruského režimu v očiach slovenskej verejnosti.
+
+## Link
+https://hlasyagresora.eu/?osoba=100

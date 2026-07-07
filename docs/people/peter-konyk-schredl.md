@@ -19,3 +19,6 @@ title: "Peter „Koňýk“ Schredl"
 ## Notes
 
 Verejne prejavoval sympatie ku Kotlebovej ĽSNS a objavoval sa aj v alternatívnom mediálnom priestore. V kontexte Ruska a vojny na Ukrajine je relevantný najmä pre verejne medializované postoje po roku 2022, ktoré český Headliner označil ako postavenie sa na stranu Ruska a šírenie proruskej propagandy
+
+## Link
+https://hlasyagresora.eu/?osoba=128

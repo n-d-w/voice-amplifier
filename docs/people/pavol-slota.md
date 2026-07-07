@@ -19,3 +19,6 @@ title: "Pavol Slota"
 ## Notes
 
 Slovenský nacionalistický politik šíriaci prorusky vyznievajúci rámec vojny proti Ukrajine, vrátane kritiky Kyjeva, EÚ, NATO a západnej podpory Ukrajiny, pričom sa verejne prezentoval cestou na okupovaný Donbas.
+
+## Link
+https://hlasyagresora.eu/?osoba=83

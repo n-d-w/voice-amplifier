@@ -19,3 +19,6 @@ title: "Dušan Gazdura"
 ## Notes
 
 Komunálny kandidát za SMER-SD v Trebišove a lokálny sociálno-mediálny aktér. Vo verejnom priestore vystupuje ako podporovateľ Smeru-SD a zapája sa do komunálnych diskusií. Podľa verejne dostupnej komunikácie a podnetov používa voči politickým oponentom aj občanom agresívny a vulgarizovaný štýl. Priame proruské výroky zatiaľ nie sú doložené; rizikový je najmä ako lokálny aktér polarizujúcej politickej komunikácie.
+
+## Link
+https://hlasyagresora.eu/?osoba=154

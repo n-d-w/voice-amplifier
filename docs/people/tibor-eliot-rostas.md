@@ -19,3 +19,6 @@ title: "Tibor Eliot Rostás"
 ## Notes
 
 Mediálny aktér dlhodobo pôsobiaci v slovenskom dezinformačnom prostredí, ktorého platforma Zem &amp; Vek systematicky šíri proruské, protizápadné a protiukrajinské naratívy.
+
+## Link
+https://hlasyagresora.eu/?osoba=65

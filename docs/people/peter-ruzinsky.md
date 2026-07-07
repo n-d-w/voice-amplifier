@@ -19,3 +19,6 @@ title: "Peter Ružinský"
 ## Notes
 
 Verejný facebookový profil vystupujúci ako Digital creator / Public figure. Profil používa výrazne nacionalistický a anti-západný rámec, napríklad heslo, že „západná kultúra nám Slovanom už nič nemôže ponúknuť“. Obsahovo sa javí ako účet orientovaný na národno-identitné, slovanské a protizápadné posolstvá.
+
+## Link
+https://hlasyagresora.eu/?osoba=136

@@ -19,3 +19,6 @@ title: "Marek Šoun"
 ## Notes
 
 Proruský agitátor z prostredia sociálnych sietí, verejne spájaný so Smerom-SD. Médiá uvádzali jeho pomoc strane pri zbere podpisov aj plánovanú kandidatúru pod značkou Smeru. Vystupuje ako šíriteľ protiukrajinskej propagandy, útočí na podporu Ukrajiny a pracuje s naratívmi, ktoré presúvajú vinu za ruskú agresiu na Ukrajinu, NATO alebo Západ.
+
+## Link
+https://hlasyagresora.eu/?osoba=75

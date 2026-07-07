@@ -19,3 +19,6 @@ title: "Roman Michelko"
 ## Notes
 
 Slovenský politik a komentátor pôsobiaci v politickej línii SNS, ktorá odmieta tvrdý postup voči Ruskej federácii, kritizuje podporu Ukrajiny a presadzuje rokovací rámec výhodný pre Moskvu.
+
+## Link
+https://hlasyagresora.eu/?osoba=67

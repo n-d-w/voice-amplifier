@@ -19,3 +19,6 @@ title: "Marián Kéry"
 ## Notes
 
 Slovenský politik pôsobiaci v línii normalizácie kontaktov s Ruskou federáciou, kritizujúci Ukrajinu a sankcie voči Moskve, pričom sa zúčastnil pracovnej návštevy NR SR v Ruskej federácii počas prebiehajúcej ruskej vojny proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=50

@@ -19,3 +19,6 @@ title: "Boris Mičuda"
 ## Notes
 
 Opakovane šíri proruské, protiukrajinské, anti-EÚ, anti-NATO a anti-západné naratívy. V príspevkoch vykresľuje Ukrajinu ako nástroj USA, NATO a EÚ proti Rusku, spochybňuje možnosť porážky Ruska, preberá rámce Sergeja Lavrova a používa formulácie o „kyjevskom režime“ či „nacizme na Ukrajine“.
+
+## Link
+https://hlasyagresora.eu/?osoba=158

@@ -19,3 +19,6 @@ title: "Robert Kaliňák"
 ## Notes
 
 Patrí medzi hlavných obhajcov vládnej línie Roberta Fica, vrátane odmietania ďalšej štátnej vojenskej pomoci Ukrajine a kritiky EÚ/NATO prístupu ku konfliktu. Jeho verejné vystupovanie často obsahuje naratívy blízke proruskému informačnému prostrediu.
+
+## Link
+https://hlasyagresora.eu/?osoba=92

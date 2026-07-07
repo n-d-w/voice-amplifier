@@ -19,3 +19,6 @@ title: "Lukáš Perný"
 ## Notes
 
 Kulturológ, filozof, publicista a pracovník Matice slovenskej. Verejne pôsobí v národno-ľavicovom, panslavistickom a anti-liberálnom prostredí. V kontexte Ruska je vhodné zaradenie ako kultúrno-ideový a mediálny aktér s rusofilným, protizápadným a proruskému informačnému prostrediu blízkym vystupovaním.
+
+## Link
+https://hlasyagresora.eu/?osoba=124

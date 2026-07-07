@@ -19,3 +19,6 @@ title: "Jaroslav Daniška"
 ## Notes
 
 Publicista opakovane prezentujúci výklad vojny na Ukrajine, ktorý oslabuje jednoznačné pomenovanie ruskej agresie tým, že výraznú časť zodpovednosti presúva na Západ, NATO a ukrajinské politické rozhodnutia.
+
+## Link
+https://hlasyagresora.eu/?osoba=62

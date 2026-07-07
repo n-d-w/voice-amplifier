@@ -19,3 +19,6 @@ title: "Jozef Viktorín"
 ## Notes
 
 Bývalý generál, bezpečnostný a obranný komentátor, politicky aktívny v hnutí Republika. Vystupuje s kritikou NATO, Západu a pomoci Ukrajine; v médiách bol spájaný s pomocou ruským záujmom v slovenskom politickom priestore.
+
+## Link
+https://hlasyagresora.eu/?osoba=115

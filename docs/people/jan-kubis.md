@@ -19,3 +19,6 @@ title: "Ján Kubiš"
 ## Notes
 
 V minulosti označil ruskú vojnu za agresiu a podporil pomoc Ukrajine, no v aktuálnej fáze vojny vystupuje v rizikovom diplomatickom rámci: zdôrazňuje rokovania s Ruskom, finančné riziká pomoci Kyjevu, korupciu na Ukrajine a potrebu kontaktov s ruskou stranou. Ako poradca prezidenta sa stretol so Sergejom Lavrovom.
+
+## Link
+https://hlasyagresora.eu/?osoba=162

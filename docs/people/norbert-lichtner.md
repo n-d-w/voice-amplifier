@@ -19,3 +19,6 @@ title: "Norbert Lichtner"
 ## Notes
 
 Zakladateľ alternatívneho internetového rádia InfoVojna, ktoré predstavuje zásadný komunikačný kanál pre proruské spektrum poslucháčov. Priestor vo svojom vysielaní pravidelne poskytuje osobnostiam obhajujúcim politiku Vladimira Putina.
+
+## Link
+https://hlasyagresora.eu/?osoba=98

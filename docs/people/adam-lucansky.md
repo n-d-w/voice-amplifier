@@ -19,3 +19,6 @@ title: "Adam Lučanský"
 ## Notes
 
 V roku 2025 vycestoval do Moskvy ako súčasť delegácie vedenej Andrejom Dankom. Vo svojej komunikácii smerom k verejnosti obhajuje potrebu normalizácie vzťahov s Ruskom a odmieta euroatlantický naratív o izolácii Kremľa.
+
+## Link
+https://hlasyagresora.eu/?osoba=97

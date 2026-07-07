@@ -19,3 +19,6 @@ title: "Jozef Ráž"
 ## Notes
 
 Verejne známa politicky exponovaná osoba s dlhodobou väzbou na prostredie SMER-SD. V roku 2018 bol Jozef Ráž ml. navrhovaný ako nominant SMER-SD na post ministra vnútra a od októbra 2023 pôsobí ako minister dopravy SR vo vláde Roberta Fica. Médiá opakovane upozorňovali na jeho osobné väzby na Roberta Kaliňáka.
+
+## Link
+https://hlasyagresora.eu/?osoba=165

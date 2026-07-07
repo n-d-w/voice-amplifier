@@ -19,3 +19,6 @@ title: "Miroslav Heredoš"
 ## Notes
 
 Verejný aktivista spájaný s krajne pravicovým politickým prostredím Republiky a ĽSNS, ktorého komunikácia zapadá do protisystémového a protizápadne ladeného rámca slovenskej alternatívnej scény.
+
+## Link
+https://hlasyagresora.eu/?osoba=80

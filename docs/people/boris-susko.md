@@ -19,3 +19,6 @@ title: "Boris Susko"
 ## Notes
 
 Patrí medzi kľúčových právnych aktérov vlády Roberta Fica. Rizikový je najmä pre svoju úlohu pri zásadných zmenách trestnej politiky štátu, novele Trestného zákona, agende kajúcnikov a širšom oslabovaní protikorupčnej infraštruktúry. Priame osobné proruské výroky nie sú kľúčovo doložené; rizikovosť spočíva najmä v antiinštitucionálnom a mocensko-právnom pôsobení v prospech prostredia Smeru.
+
+## Link
+https://hlasyagresora.eu/?osoba=156

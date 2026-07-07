@@ -19,3 +19,6 @@ title: "Anna Belousovová"
 ## Notes
 
 Verejná politická aktérka šíriaca prorusky vyznievajúci rámec vojny proti Ukrajine, najmä cez útoky na Kyjev, Západ, NATO a legitimizáciu ruskej interpretácie konfliktu.
+
+## Link
+https://hlasyagresora.eu/?osoba=77

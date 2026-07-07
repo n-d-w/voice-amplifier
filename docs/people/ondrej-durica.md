@@ -19,3 +19,6 @@ title: "Ondrej Ďurica"
 ## Notes
 
 V kontexte Ruska a vojny na Ukrajine je relevantný ako politický aktér krajno-pravicového a antiestablishmentového prostredia ĽSNS/Republika, ktoré dlhodobo používa anti-NATO, protibruselskú, antiukrajinskú a proruskému informačnému priestoru blízku rétoriku.
+
+## Link
+https://hlasyagresora.eu/?osoba=130

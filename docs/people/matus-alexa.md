@@ -19,3 +19,6 @@ title: "Matúš Alexa"
 ## Notes
 
 Líder proruskej motorkárskej organizácie Brat za Brata, ktorá je verejne spájaná s prokremeľskou propagandou, kontaktmi na ruské prostredie a aktivitami proti podpore Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=79

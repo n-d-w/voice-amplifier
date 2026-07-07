@@ -19,3 +19,6 @@ title: "František Horváth"
 ## Notes
 
 Faari Slovensko, profil spájaný s Františkom Horváthom, pravidelne šíri prokremeľské, protiNATO a konšpiračné naratívy. Opakovane zverejňuje zavádzajúci alebo vyvrátený obsah, ktorý relativizuje ruskú agresiu proti Ukrajine a prenáša zodpovednosť na USA, NATO a Západ.
+
+## Link
+https://hlasyagresora.eu/?osoba=171

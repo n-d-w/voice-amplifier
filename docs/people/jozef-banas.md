@@ -19,3 +19,6 @@ title: "Jozef Banáš"
 ## Notes
 
 Slovenský spisovateľ, bývalý politik a diplomat. Verejne vystupuje ako politický komentátor a publicista, často v antiestablishmentovom a alternatívnom mediálnom prostredí. V kontexte Ruska a vojny na Ukrajine býva spájaný s postojmi a naratívmi blízkymi proruskému informačnému prostrediu.
+
+## Link
+https://hlasyagresora.eu/?osoba=114

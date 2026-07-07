@@ -19,3 +19,6 @@ title: "Tomáš Špaček"
 ## Notes
 
 Aktívne vyhľadáva priame kontakty s ruskými štátnymi štruktúrami. Ešte ako asistent europoslanca sa v marci 2024 osobne zúčastnil na Svetovom festivale mládeže v ruskom Soči, kde prezentoval politiku Republiky a hovoril o potrebe zastavenia vojenskej pomoci Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=107

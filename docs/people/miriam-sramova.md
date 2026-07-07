@@ -19,3 +19,6 @@ title: "Miriam Šramová"
 ## Notes
 
 Miriam „Mimi“ Šramová sa v slovenskom mediálnom priestore dlhodobo radí k osobnostiam alternatívnej a dezinformačnej scény, ktoré systematicky preberajú a šíria proruské naratívy a konšpirácie. Vo svojej tvorbe (napr. na kanáloch YouTube a Telegram) nesúhlasí s vojenskou pomocou Ukrajine, spochybňuje kroky západných spojencov a legitimizuje oficiálnu rétoriku Ruskej federácie, respektíve ju prezentuje ako „alternatívny pohľad na pravdu“
+
+## Link
+https://hlasyagresora.eu/?osoba=120

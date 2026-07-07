@@ -19,3 +19,6 @@ title: "Milan Uhrík"
 ## Notes
 
 Europoslanec a predseda Republiky s dlhodobo verejne prezentovanými proruskými postojmi, kritikou sankcií voči Ruskej federácii a odporom voči podpore Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=43

@@ -19,3 +19,6 @@ title: "Eduard Chmelár"
 ## Notes
 
 Slovenský politický komentátor s dlhodobo verejne prezentovanými postojmi v prospech normalizácie vzťahov s Ruskou federáciou a kritikou západnej podpory Ukrajiny.
+
+## Link
+https://hlasyagresora.eu/?osoba=20

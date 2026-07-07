@@ -19,3 +19,6 @@ title: "Samuel Galovič"
 ## Notes
 
 V kontexte Ruska a Ukrajiny je relevantné najmä jeho antiukrajinské rámcovanie tém, napríklad spochybňovanie pomoci Ukrajine cez naratívy o ukrajinských oligarchoch a peniazoch slovenských daňovníkov.
+
+## Link
+https://hlasyagresora.eu/?osoba=118

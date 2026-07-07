@@ -19,3 +19,6 @@ title: "Dag Daniš"
 ## Notes
 
 Slovenský komentátor s dlhodobo verejne prezentovaným protizápadným a prorusky vyznievajúcim rámcom výkladu vojny na Ukrajine, najmä cez kritiku NATO, Západu a Kyjeva.
+
+## Link
+https://hlasyagresora.eu/?osoba=58

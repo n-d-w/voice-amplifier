@@ -19,3 +19,6 @@ title: "Tibor Gašpar"
 ## Notes
 
 V roku 2025 bol súčasťou delegácie v Moskve, ktorá rokovala so Sergejom Lavrovom a predstaviteľmi ruskej Štátnej dumy. Po rokovaní verejne reprodukoval ruské rámce k vojne na Ukrajine, vrátane tvrdení o porušení dohôd Západom, právach ruskej menšiny a potrebe počúvať Rusko. Ruské argumenty označil za logické a za eskaláciu konfliktu označoval aj kroky Ukrajiny a EÚ. Formálne napojenie na ruský štát nie je preukázané, no politická a naratívová blízkosť k ruským záujmom je výrazne doložená.
+
+## Link
+https://hlasyagresora.eu/?osoba=63

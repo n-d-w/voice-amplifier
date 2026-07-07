@@ -19,3 +19,6 @@ title: "Róbert Švec"
 ## Notes
 
 Slovenský politik šíriaci prorusky vyznievajúci geopolitický rámec, založený na odmietaní NATO a EÚ, odporu voči sankciám na Ruskú federáciu a predstave bezpečnostného ukotvenia Slovenska mimo západných štruktúr.
+
+## Link
+https://hlasyagresora.eu/?osoba=73

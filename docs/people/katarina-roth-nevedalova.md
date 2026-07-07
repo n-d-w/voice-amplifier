@@ -19,3 +19,6 @@ title: "Katarína Roth Neveďalová"
 ## Notes
 
 Slovenská europoslankyňa pôsobiaca v línii Smeru-SD, ktorá obhajuje zbližovanie s Ruskou federáciou, odmieta vojenskú podporu Ukrajiny a kritizuje sankčný tlak EÚ voči Moskve.
+
+## Link
+https://hlasyagresora.eu/?osoba=52

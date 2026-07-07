@@ -19,3 +19,6 @@ title: "Andrej Danko"
 ## Notes
 
 Predseda SNS s dlhodobo verejne deklarovanou proruskou orientáciou, opakovanými kontaktmi s predstaviteľmi Ruskej federácie a politickou podporou obnovovania vzťahov s Moskvou.
+
+## Link
+https://hlasyagresora.eu/?osoba=26

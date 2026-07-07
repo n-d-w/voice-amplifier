@@ -19,3 +19,6 @@ title: "Filip Sulík"
 ## Notes
 
 V komunikácii používa polarizujúce rámce k témam Ukrajiny, Ruska a slovenskej politiky, spochybňuje proukrainské iniciatívy a verejne sa približuje prostrediu Smeru. Priame proruské väzby nie sú doložené, no jeho verejné výstupy vykazujú protiukrajinskú a proruskú naratívovú blízkosť.
+
+## Link
+https://hlasyagresora.eu/?osoba=145

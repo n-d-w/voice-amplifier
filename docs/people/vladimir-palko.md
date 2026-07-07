@@ -19,3 +19,6 @@ title: "Vladimír Palko"
 ## Notes
 
 Verejný komentátor šíriaci interpretáciu vojny na Ukrajine, ktorá prenáša podstatnú časť zodpovednosti na Západ a NATO a tým oslabuje jasné pomenovanie ruskej agresie ako hlavnej príčiny vojny.
+
+## Link
+https://hlasyagresora.eu/?osoba=61

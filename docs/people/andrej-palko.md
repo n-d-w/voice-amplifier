@@ -19,3 +19,6 @@ title: "Andrej Palko"
 ## Notes
 
 Verejne pôsobí ako politický influencer v konzervatívno-antiestablishmentovom prostredí. V kontexte Ruska a vojny na Ukrajine je relevantné jeho šírenie antiukrajinských a proruskému informačnému prostrediu blízkych naratívov, vrátane tvrdení o Ukrajine, Kyjivsko-pečerskej lavre a rámcovania, že Rusko sa k Slovensku nespráva ako nepriateľ, zatiaľ čo Ukrajina áno.
+
+## Link
+https://hlasyagresora.eu/?osoba=123

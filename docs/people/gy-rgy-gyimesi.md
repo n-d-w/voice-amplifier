@@ -19,3 +19,6 @@ title: "György Gyimesi"
 ## Notes
 
 Gyimesi dlhodobo komunikuje spôsobom, ktorý sa výrazne prekrýva s ruskou propagandou: zľahčuje alebo relativizuje zodpovednosť Ruska, útočí na pomoc Ukrajine, používa „mier“ ako politický slogan bez požiadavky na odchod okupanta a šíri naratívy o nefunkčných sankciách či škodlivosti Západu.
+
+## Link
+https://hlasyagresora.eu/?osoba=134

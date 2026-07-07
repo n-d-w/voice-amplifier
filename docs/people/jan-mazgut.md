@@ -19,3 +19,6 @@ title: "Ján Mažgút"
 ## Notes
 
 Slovenský politik pôsobiaci v línii normalizácie vzťahov s Ruskou federáciou, ktorý sa počas ruskej vojny proti Ukrajine zúčastnil parlamentnej návštevy Moskvy a verejne podporoval obnovenie komunikácie s Moskvou.
+
+## Link
+https://hlasyagresora.eu/?osoba=87

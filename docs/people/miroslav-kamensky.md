@@ -19,3 +19,6 @@ title: "Miroslav Kamenský"
 ## Notes
 
 Mediálny a sociálno-mediálny aktér šíriaci proruské, protiukrajinské a anti-západné naratívy. V témach vojny na Ukrajine kritizuje Ukrajinu, Západ a slovenskú podporu Kyjeva. Zároveň šíri konšpiračné tvrdenia typu chemtrails/geoinžiniering; v príspevkoch napríklad tvrdí, že horúčavy spôsobuje „aktivácia vrstvy kovových nanočastíc“ striekaných do oblohy.
+
+## Link
+https://hlasyagresora.eu/?osoba=71

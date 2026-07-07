@@ -9,7 +9,7 @@ lock:
 	$(UV) lock
 
 .PHONY: generate
-generate:
+gen generate:
 	$(UV) run python generate.py
 
 .PHONY: build

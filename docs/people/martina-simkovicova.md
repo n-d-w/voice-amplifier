@@ -19,3 +19,6 @@ title: "Martina Šimkovičová"
 ## Notes
 
 V minulosti bola spájaná s Televíziou Slovan, označovanou monitoringom dezinformačnej scény za problematický kanál. Ako ministerka v roku 2024 zrušila zákaz komunikácie a spolupráce rezortu kultúry s Ruskom a Bieloruskom, zavedený po začiatku ruskej invázie na Ukrajinu. Riziková je pre vysokú štátnu funkciu, anti-liberálnu kultúrnu politiku a kroky obnovujúce kontakty s Ruskom a Bieloruskom počas vojny.
+
+## Link
+https://hlasyagresora.eu/?osoba=160

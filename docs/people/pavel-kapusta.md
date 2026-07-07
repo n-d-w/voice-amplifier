@@ -19,3 +19,6 @@ title: "Pavel Kapusta"
 ## Notes
 
 V kontexte Ruska a vojny na Ukrajine je relevantný pre verejné výroky a obsah zapadajúci do proruského informačného rámca, vrátane tvrdenia, že „Krym bol odjakživa ruský“. Pôsobí v alternatívnom mediálnom priestore a jeho portál Na palete je vedený v databáze Konšpirátori.sk.
+
+## Link
+https://hlasyagresora.eu/?osoba=126

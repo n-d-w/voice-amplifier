@@ -19,3 +19,6 @@ title: "Marián Greksa"
 ## Notes
 
 V súčasnosti vystupuje ako prokoaličný a anti-progresívny komentátor s väzbami na prostredie Hlasu; objavuje sa pri témach médií, opozície, Ruska, Ukrajiny, NATO a EÚ. Priame proruské väzby nie sú doložené, rizikový je najmä ako kultúrny influencer legitimizujúci anti-mediálne, anti-progresívne a antisystémovo znejúce rámce.
+
+## Link
+https://hlasyagresora.eu/?osoba=76

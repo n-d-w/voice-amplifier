@@ -19,3 +19,6 @@ title: "Milan Matejov"
 ## Notes
 
 Proruský / anti-západný / dezinformačne rizikový verejný profil. Profil je vhodné zaradiť medzi účty šíriace alebo podporujúce proruské, panslavistické a antiukrajinské naratívy. Aktívny v „TV KRIVAN SLOVAN“, „Na rovinu Slovensko“, skupinami ako „SLOVAN – Národný snem jednoty“, „Rusi sú naši BRATIA“, „Volím Harabina“ a anti-liberálnymi/anti-OĽANO skupinami.
+
+## Link
+https://hlasyagresora.eu/?osoba=137

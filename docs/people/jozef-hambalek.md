@@ -19,3 +19,6 @@ title: "Jozef Hambálek"
 ## Notes
 
 Bol zakladateľom slovenskej pobočky proruského motorkárskeho klubu Noční vlci (známeho blízkym vzťahom s Vladimirom Putinom). Na svojom pozemku vybudoval areál s vojenskou technikou, kde prebiehal výcvik.
+
+## Link
+https://hlasyagresora.eu/?osoba=94

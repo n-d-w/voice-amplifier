@@ -19,3 +19,6 @@ title: "Oskar Rózsa"
 ## Notes
 
 Kultúrna osobnosť verejne pôsobiaca v prostredí blízkom vládnej a alternatívnej scéne, ktorá je často kritická voči liberálnym médiám, opozícii a západnému politickému rámcu.
+
+## Link
+https://hlasyagresora.eu/?osoba=85

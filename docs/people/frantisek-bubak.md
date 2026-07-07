@@ -19,3 +19,6 @@ title: "František Bubák"
 ## Notes
 
 Verejný profil s výraznou proruskou symbolikou a politicko-aktivistickým obsahom. Fotografie s ruskými vlajkami, symbolom dvojhlavého orla a politickými heslami naznačujú otvorenú identifikáciu s proruským naratívom.
+
+## Link
+https://hlasyagresora.eu/?osoba=135

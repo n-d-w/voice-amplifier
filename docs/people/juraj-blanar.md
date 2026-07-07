@@ -19,3 +19,6 @@ title: "Juraj Blanár"
 ## Notes
 
 Slovenský minister zahraničných vecí aktívne obnovujúci diplomatické kontakty s Ruskou federáciou, vrátane opakovaných stretnutí so Sergejom Lavrovom, čím prispieva k normalizácii vzťahov s Moskvou počas ruskej vojny proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=46

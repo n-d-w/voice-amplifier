@@ -19,3 +19,6 @@ title: "Tobiáš Longauer"
 ## Notes
 
 Politický komunikátor Smeru-SD šíriaci protiukrajinský rámec vládnej politiky, vrátane naratívov o „nevďačnosti“ Ukrajiny a kritiky európskej podpory Kyjeva.
+
+## Link
+https://hlasyagresora.eu/?osoba=57

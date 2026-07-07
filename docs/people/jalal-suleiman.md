@@ -19,3 +19,6 @@ title: "Jalal Suleiman"
 ## Notes
 
 Podpredseda mimoparlamentnej Komunistickej strany Slovenska (KSS) a pôvodom sýrsky lekár žijúci na Slovensku. Patrí k najradikálnejším zástancom politiky Vladimira Putina. Pravidelne sa zúčastňuje na proruských zhromaždeniach a recepciách ruskej ambasády.
+
+## Link
+https://hlasyagresora.eu/?osoba=101

@@ -19,3 +19,6 @@ title: "Jozef Hladík"
 ## Notes
 
 Verejne vystupujúci profil Jozef Hladík-Minco s výrazne proruskou, protizápadnou a polarizačnou komunikáciou. Priložený príspevok obsahuje výzvu, že „Rusi“ by mali „pritvrdiť“ na „západ“, čo predstavuje reputačne a komunikačne vysoko rizikový obsah. Účet je vhodné evidovať ako vysoko rizikový z hľadiska možnej propagandy, politickej kontroverznosti a poškodenia reputácie pri verejnej interakcii.
+
+## Link
+https://hlasyagresora.eu/?osoba=164

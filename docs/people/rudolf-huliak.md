@@ -19,3 +19,6 @@ title: "Rudolf Huliak"
 ## Notes
 
 Slovenský vládny politik pôsobiaci v línii normalizácie vzťahov s Ruskou federáciou, kritizujúci pomoc Ukrajine a sankcie, pričom verejne presadzuje obnovovanie kontaktov s Moskvou aj počas ruskej vojny proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=69

@@ -19,3 +19,6 @@ title: "Miroslav Iliaš"
 ## Notes
 
 Otvorene sa označuje za rusofila a na Facebooku, Telegrame a Hlavných správach šíri prokremeľské naratívy, podporuje spoluprácu s Ruskom a odmieta protiruské sankcie. Vo verejných vyjadreniach používa aj ruskú propagandistickú terminológiu namierenú proti Ukrajine.
+
+## Link
+https://hlasyagresora.eu/?osoba=170
