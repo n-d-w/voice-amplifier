@@ -1,0 +1,59 @@
+site_name: People Database
+site_description: Generated pages from JSON data
+site_url: https://example.com/
+
+theme:
+  name: material
+  language: sk
+
+plugins:
+  - search
+  - awesome-pages
+
+docs_dir: docs
+site_dir: site
+
+
+site_name: People Database
+site_description: Generated pages from JSON data
+site_url: https://example.com/
+
+docs_dir: docs
+site_dir: site
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - extra
+  - nl2br
+  - pymdownx.magiclink
+  - pymdownx.details
+  - sane_lists
+  - smarty
+  - md_in_html
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.blocks.html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+

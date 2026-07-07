@@ -1,0 +1,23 @@
+---
+title: "{{ person.meno }} {{ person.priezvisko }}"
+---
+
+# {{ person.titul_pred }} {{ person.meno }} {{ person.priezvisko }} {{ person.titul_za }}
+
+{% if person.foto %}
+![{{ person.meno }} {{ person.priezvisko }}](../images/{{ person.foto }})
+{% endif %}
+
+| Field | Value |
+|-------|-------|
+| ID | {{ person.id }} |
+| Year of birth | {{ person.rok_narod }} |
+| Risk | {{ person.riziko }} |
+| Political involvement | {{ person.politika }} |
+| Active | {{ "yes" if person.aktivny else "no" }} |
+| Created | {{ person.vytvorene }} |
+| Updated | {{ person.upravene }} |
+
+## Notes
+
+{{ person.poznamka }}
