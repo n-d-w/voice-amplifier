@@ -1,6 +1,9 @@
 # Voice amplifier
 
-# Create your own (offline) mirror of the page https://hlasyagresora.eu/
+# Create your own (offline) mirror
+
+- Original page https://hlasyagresora.eu/
+- generated mirror: https://n-d-w.github.io/voice-amplifier/
 
 ## Howto
 
