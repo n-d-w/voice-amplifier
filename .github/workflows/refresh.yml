@@ -46,6 +46,12 @@ jobs:
           git commit -m "Automatic data update"
           git push
 
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: Generate pages
+        run: make generate
+
+      - name: Build documentation
+        run: uv run mkdocs build --strict
+
+      - name: Deploy to GitHub Pages
+        run: uv run mkdocs gh-deploy --force
 
