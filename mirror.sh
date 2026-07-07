@@ -13,7 +13,9 @@ FOTOS=$( jq -r '.[].foto' hlasyagresora.eu/osoby.json )
 for foto in $FOTOS; do
 	if [[ "$foto" =~ ^[a-zA-Z0-9._-]+$ ]]; then
 		echo "Image: '$foto'"
-		curl -X GET --silent -H "$user_agent" $PREFIX_URL/uploads/$foto > docs/images/$foto
+		if [ ! -f docs/images/$foto ]; then
+			curl -X GET --silent -H "$user_agent" $PREFIX_URL/uploads/$foto > docs/images/$foto
+		fi
 	else
 		echo "Invalid image: 'foto'"
 	fi
