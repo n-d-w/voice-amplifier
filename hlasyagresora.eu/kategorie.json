@@ -1,0 +1,38 @@
+[
+  {
+    "farba_bg": "#0000ff",
+    "farba_border": "#e5e7eb",
+    "farba_text": "#ffffff",
+    "id": 5,
+    "nazov": "Sociálne siete",
+    "poradie": 0,
+    "slug": "siete"
+  },
+  {
+    "farba_bg": "#fef2f2",
+    "farba_border": "#fecaca",
+    "farba_text": "#b91c1c",
+    "id": 1,
+    "nazov": "Politicky aktívny",
+    "poradie": 1,
+    "slug": "ano"
+  },
+  {
+    "farba_bg": "#f3f4f6",
+    "farba_border": "#e5e7eb",
+    "farba_text": "#6b7280",
+    "id": 2,
+    "nazov": "Politicky neaktívny",
+    "poradie": 2,
+    "slug": "nie"
+  },
+  {
+    "farba_bg": "#fff7ed",
+    "farba_border": "#fed7aa",
+    "farba_text": "#c2410c",
+    "id": 3,
+    "nazov": "Politický influencer",
+    "poradie": 3,
+    "slug": "influencer"
+  }
+]
