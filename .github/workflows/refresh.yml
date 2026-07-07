@@ -1,9 +1,10 @@
-name: REFRESH
+name: CI
 
 on:
-  schedule:
-    - cron: '0 3 * * *'
-
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
   workflow_dispatch:
 
 permissions:
@@ -14,10 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
       - name: Configure git
         run: |
@@ -38,3 +36,7 @@ jobs:
           git add .
           git commit -m "Automatic data update"
           git push
+
+      - name: Run a one-line script
+        run: echo Hello, world!
+
